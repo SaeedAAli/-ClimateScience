@@ -1,52 +1,83 @@
-<img width="1919" height="1079" alt="Screenshot 2025-09-02 204412" src="https://github.com/user-attachments/assets/e6a453f2-5a44-48a3-81cd-9de76a0fba81" />
-This is my first proffessional project that I completed which is aimed at musumen targeted for young audience to teach them about the causes of pollution but also making it more engaging simultaneously
 
-This project is a comeback from the project I completed last year which was The space shooter game, 
+# Carbon Collector (Bringing Climate Science to Life)
 
-How to Run the Game
+This project is a 2D platformer designed to educate children aged 6–11 about the importance of the climate, with a specific focus on pollution. It explores how pollution impacts the environment and presents practical ways to prevent it, while remaining engaging and accessible for a young audience. The game is intended to be displayed within a public science museum or exhibition, where learning is delivered through interactive and educational gameplay.
+## Features
 
-📦 1. Create a New Unity Project
+- Horizontal Player Movement
+- Collection Based Enviroment
+- Camera Follow on Player
+- Physics-based Movement
 
-Open Unity Hub.
 
-Click New Project.
 
-Select the Unity version you want to use (preferably the one this project was created with).
+## Tech Stack
 
-Choose any project template (2D/etc)
+- Unity Engine (2D)
+- C#
+- Tilemaps
+- Cinemachine
 
-Name it anything you’d like and create the project.
+## Controls
 
-📁 2. Replace the Project Files
+- Movement: A & D Keybinds
+- Jump: Spacebar
 
-After Unity finishes creating the project, close Unity.
+## How to Run the Game
 
-Go to the folder where Unity created the project on your computer.
+1.	Create a New Unity Project
+	•	Open Unity Hub → New Project → 2D template
+	•	Select the same Unity version as this project
+	•	Name the project and create it
+2.	Replace Project Files
+	•	Close Unity
+	•	Go to the project folder (Windows: C:/Users/.../Unity Projects/YourProjectName/, Mac: /Users/.../Unity Projects/YourProjectName/)
+	•	Delete everything inside
+	•	Copy all files from this repository into the folder (replace Assets, ProjectSettings, Packages)
 
-Example paths:
+3.	Open the Project
+	•	Open Unity Hub → Open → select the project folder
+	•	Wait for Unity to load the project
 
-Windows: C:/Users//Documents/Unity Projects/YourProjectName/
+4.	Play the Game
+	•	Open the main scene (Assets/Scenes/)
+	•	Press the Play button in the Editor
 
-Mac: /Users//Documents/Unity Projects/YourProjectName/
 
-Delete all files and folders INSIDE that project folder.
+## Promotional Image
 
-Copy all files and folders from this repository into that same folder.
+![App Screenshot](https://github.com/user-attachments/assets/e6a453f2-5a44-48a3-81cd-9de76a0fba81)
 
-(Make sure the Assets, ProjectSettings, and Packages folders all replace the new project’s versions.)
 
-▶️ 3. Open the Project in Unity
+## Settings & Objective Tutorial
 
-Open Unity Hub again.
+![App Screenshot](https://raw.githubusercontent.com/SaeedAAli/-ClimateScience/main/Desktop2026.01.14-20.32.00.05-ezgif.com-video-to-gif-converter.gif)
 
-Click Open.
 
-Select the folder where you pasted these files.
 
-Unity will load the project—this may take a moment the first time.
+## In Game Mechanical Tutorial
 
-🎮 4. Play the Game
 
-Once the project finishes loading, open the main scene (usually found under Assets/Scenes/).
+![App Screens](https://raw.githubusercontent.com/SaeedAAli/-ClimateScience/main/Desktop2026.01.14-20.32.14.06-ezgif.com-video-to-gif-converter.gif)
 
-Press the Play button at the top of the Editor.
+
+## Level 1
+
+![App Screens](https://raw.githubusercontent.com/SaeedAAli/-ClimateScience/main/Desktop2026.01.14-20.32.33.07-ezgif.com-video-to-gif-converter.gif)
+
+
+## Level 2
+
+![App Screens](https://raw.githubusercontent.com/SaeedAAli/-ClimateScience/main/Desktop2026.01.14-20.32.58.08-ezgif.com-video-to-gif-converter.gif)
+## Licenses & Third Party Assets Used
+
+Tilesets & Player Animation Used
+
+ - [AxulArt](https://axulart.itch.io/dirt-and-grass-2d-platform-tileset)
+
+- [Cinemachine](https://docs.unity3d.com/6000.3/Documentation/Manual/com.unity.cinemachine.html)
+
+- [Szadi](https://szadiart.itch.io/bakcground-hill)
+
+
+
