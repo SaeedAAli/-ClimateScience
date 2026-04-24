@@ -81,3 +81,22 @@ Tilesets & Player Animation Used
 
 
 
+## Documentation for this Project
+
+In order to deliver an end to end project that is highly scalable and being able to deliver all my points that I intended to set out and meet the criteria.
+
+Examples for this would be having
+ * Hand Drawn Layouts
+ * Primary Research
+ * Getting my Edge back by doing this project to learn C#
+ * Use of advanced Unity Scripting
+ * And much more
+												 |
+ If you want to viewe this the link is in below  ↓
+
+ 13 Week Project
+ ```
+hhttps://saeedalif.wixsite.com/my-site-1
+```
+
+
